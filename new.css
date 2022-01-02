@@ -1,0 +1,59 @@
+.container{
+  background-color: black;
+  
+ 
+}
+.heading{
+  color:aqua;
+  font-weight: bold;
+  padding-left: 650px;
+  font-size: 35px;
+}
+.form{
+  color: green;
+  padding-left: 700px;
+  font-size: 24px;
+font-style: italic;
+}
+img{
+  padding-left: 640px;
+  height:320px;
+}
+.dob{
+  color:white;
+  padding-left: 650px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+.things{
+color: white;
+padding-left: 600px;
+font-style: normal;
+
+}
+ul{
+  color: white;
+  font-size: 24px;
+}
+.quote{
+  color:aqua;
+  margin: 0px;
+}
+.qu{
+  color: white;
+  margin: auto;
+  padding-left: 900px;
+}
+h4{
+  color: blueviolet;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  color: aqua;
+
+}
+a:hover{
+  color: blueviolet;
+  text-decoration: underline;
+}
